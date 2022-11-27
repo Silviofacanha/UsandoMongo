@@ -19,6 +19,6 @@ O nosso projeto tem como base projetos do curso [B7Web](https://b7web.com.br/)
 
 `npm run start-dev`
 
-Autor: **Denny Paulista Azevedo Filho**
+Autor: **Silvio Gonçalves Façanha*
 
 _Estes códigos estão sobre a licença_ **MIT**
